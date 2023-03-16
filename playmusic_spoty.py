@@ -1,9 +1,7 @@
 '''
-    Description:
-    Play music on Spotify with python.
-
-    Author: AlejandroV
-    Version: 1.0
+    Description: Play music on Spotify with python.
+    Author: aulerjbailey
+    Version: 1.0.0
     Video: https://youtu.be/Vj64pkXtz28
 '''
 from spotipy.oauth2 import SpotifyClientCredentials
